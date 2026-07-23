@@ -146,3 +146,7 @@
 </ul>
 <h2>9. Summary</h2>
 <p>Design Cart pHTML is a PrestaShop 8/9 module for creating multiple HTML content blocks with full styling control, multilingual support, database storage, and hook-based placement&mdash;while multiple instances per hook depend on PrestaShop core limitations. 🚀</p>
+
+<hr>
+<p>🌐 website: <a href="https://www.designcart.pl/">Design Cart</a>
+<p>👨‍💻 author: <a href="https://www.designcart.pl/pawel-nosko.html">Paweł Nosko</a></p>
